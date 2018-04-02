@@ -1,0 +1,6 @@
+projectKey=com.techprimers.docker:docker-spring-boot
+serverUrl=http://localhost:32768
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:32768/dashboard/index/com.techprimers.docker:docker-spring-boot
+ceTaskId=AWKIM46A8U8waZ6Iz-jc
+ceTaskUrl=http://localhost:32768/api/ce/task?id=AWKIM46A8U8waZ6Iz-jc
